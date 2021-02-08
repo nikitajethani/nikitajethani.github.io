@@ -1,2 +1,2 @@
 # nikitajethani.github.io
-personal website
+I created my personal website using Bootstrap, CSS, and HTML.
